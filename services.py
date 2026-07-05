@@ -16,8 +16,6 @@ def scrape_mmsp_page(url):
     
     return content_div.get_text(separator="\n", strip=True)
 
-url="https://www.mmsp.gov.ma/fr/nos-services/emtiaz"
-print(scrape_mmsp_page(url))
 urls_services= [ "https://www.mmsp.gov.ma/fr/nos-services/portail-du-sahara-marocain",
        "https://www.mmsp.gov.ma/fr/nos-services/portail-de-g%C3%A9olocalisation-des-services-publics",
        "https://www.mmsp.gov.ma/fr/nos-services/centre-d%E2%80%99appel-et-d%E2%80%99orientation-administrative",
