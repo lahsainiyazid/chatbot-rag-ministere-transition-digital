@@ -1,0 +1,6 @@
+1-Load data
+2-Chunking
+3-Convert to langchain documents 
+4-Embedding model 
+5-Create vector store +save
+6- add similarity search retrieval +connect to llm

@@ -1,0 +1,4 @@
+day 1:Took notes of rag kinda understood concept 
+day2:Scraped services part and got v1 version of chatbot which worked well
+day3:Scraped metiers
+day 4:Got v2 rag bot but it only works with k=10 which is not optimal and has very bad retrieval
